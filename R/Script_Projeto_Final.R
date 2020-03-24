@@ -3,6 +3,7 @@
 
 library("tidyr")
 library(FactoMineR)
+library(ggplot2)
 library(factoextra)
 
 # Lendo a planilha de dados #
@@ -42,26 +43,33 @@ boxplot(Dados$Esc_ventrais, las = 1)
 boxplot(Dados$Esc_subcaudais, las = 1)
 
 # Boxplot das escamas ventrais e subcaudais por espécie
+par(mfrow = c(1,2))
 boxplot(Esc_ventrais ~ Especie, data = Dados, las = 1)
 boxplot(Esc_subcaudais ~ Especie, data = Dados, las = 1)
 
 # Boxplot das escamas ventrais e subcaudais por sexo
+par(mfrow = c(1,2))
 boxplot(Esc_ventrais ~ Sexo, data = Dados, las = 1)
 boxplot(Esc_subcaudais ~ Sexo, data = Dados, las = 1)
 
 # Boxplot do comprimento CRC e CC por espécie
+par(mfrow = c(1,2))
 boxplot(CRC ~ Especie, data = Dados, las = 1)
 boxplot(CC ~ Especie, data = Dados, las = 1)
 
 # Boxplot do comprimento CRC e CC por sexo
+par(mfrow = c(1,2))
 boxplot(CRC ~ Sexo, data = Dados, las = 1)
 boxplot(CC ~ Sexo, data = Dados, las = 1)
 
 
-# Frequência do número de Escamas ventrais, subcaudais e comprimento CRC e CC
-par(mfrow = c(2,2))
+# Frequência do número de Escamas ventrais e subcaudais
+par(mfrow = c(1,2))
 hist(Dados$Esc_ventrais, las = 1)
 hist(Dados$Esc_subcaudais, las = 1)
+
+# Frequência do comprimento CRC e CC
+par(mfrow = c(1,2))
 hist(Dados$CRC, las = 1)
 hist(Dados$CC, las = 1)
 
@@ -70,6 +78,18 @@ hist(Dados$CC, las = 1)
 plot(density(Dados$Esc_ventrais))
 hist(Dados$Esc_ventrais, freq = FALSE)
 lines(density(Dados$Esc_ventrais), col = "blue")
+
+plot(density(Dados$Esc_subcaudais))
+hist(Dados$Esc_subcaudais, freq = FALSE)
+lines(density(Dados$Esc_subcaudais), col = "blue")
+
+plot(density(Dados$CRC))
+hist(Dados$CRC, freq = FALSE)
+lines(density(Dados$CRC), col = "blue")
+
+plot(density(Dados$CC))
+hist(Dados$CC, freq = FALSE)
+lines(density(Dados$CC), col = "blue")
 
 # Alálise de PCA
 ## Criando subconjuntos de linhas e colunas para a análise
@@ -102,3 +122,4 @@ especie <- as.factor(Dados[ ,1])
 
 # Plotando com grupos
 fviz_pca(resu.pca, habillage = especie, title = )
+
