@@ -1,0 +1,220 @@
+---
+title: "Variações morfológicas em duas espécies de Serpentes"
+author: "Natalia Malaquias Souto"
+date: "24 de março de 2020"
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
+
+## Introdução
+A tribo Xenodontini é diagnosticada por características do hemipênis, como presença de disco apical nu em cada lobo do hemipênis o qual não apresenta capitação ou cálices (Myers, 1986; Jenner & Dowling, 1985; Zaher et al., 1999, 2009b). Dixon (1980) reconhece seis gêneros pertencentes à tribo Xenodontini: *Erythrolamprus* Boie, 1826; *Xenodon* Boie, 1826; *Liophis* Wagler, 1830; *Lystrophis* Cope, 1885; *Umbrivaga* Roze, 1964 e *Waglerophis* Romano & Hoge, 1972. Neste estudo o autor examinou uma quantidade significativa de espécimes e sinonimizou os gêneros *Dromicus* Bibron, 1843, *Leimadophis* Fitzinger, 1843 e *Lygophis* Fitzinger, 1843 a *Liophis*, com base na complexidade das variações apresentadas pela maioria das espécies pertencentes a esses quatro gêneros em relação a caracteres osteológicos, merísticos e morfométricos. 
+
+Segundo Dixon (1980) é possível separar *Liophis* dos demais gêneros da tribo Xenodontini através das seguintes características: possuir 10 ou mais dentes palatinos; ter osso maxilar e dentes associados orientados verticalmente; osso prémaxilar com fraca conexão com os ossos septomaxilar e nasais; osso maxilar longo e com pouca mobilidade; processo maxilar do ectopterigoide sem uma margem central profunda e projeções anterolaterais do osso frontal bem desenvolvidas. Contudo, em análises com base em dados moleculares o gênero *Liophis* se mostra parafilético em relação a *Erythrolamprus* (Vidal et al., 2000, 2010; Zaher et al., 2009 e Grazziotin et al., 2012).
+
+Zaher et al. (2009), com base em dados moleculares, sinonimizaram *Lystrophis*
+e *Waglerophis* a *Xenodon*, revalidaram *Lygophis* e sinonimizaram *Erythrolamprus* a *Liophis*. Entretanto, Curcio et al. (2009) não reconhecem as mudanças adotadas por Zaher et al. (2009) em relação a *Lygophis* e *Liophis*, argumentando que as mesmas são prematuras visto que um número maior de táxons devem ser incluídos na análise, inclusive as espécies-tipo. Além disso, chamam atenção para um erro de nomenclatura cometido, já que o nome *Erythrolamprus* tem prioridade sobre *Liophis* por ter sido descrito antes. Vidal et al. (2010) corroboram os resultados encontrados por Zaher et al.(2009) em relação aos gêneros *Lygophis* e *Xenodon*, mas mantêm os gêneros *Erythrolamprus* e *Liophis*, ressaltando o parafiletismo do último e a necessidade de análises mais específicas sobre estes táxons. Grazziotin et al. (2012), após incluir novos táxons às análises, sinonimizam *Liophis* a *Erythrolamprus* (as espécies-tipo dos gêneros não foram incluídas na análise), porém afirmam que essa conformação provavelmente será modificada por análises futuras com uma amostragem mais representativa. Wallach et al. (2014) reconhecem os gêneros *Liophis*, *Lygophis* e *Erythrolamprus*. No presente estudo adotamos a postura mais conservadora de Curcio *et al.* (2009), Vidal *et al.* (2010) e Wallach *et al.* (2014) reconhecendo o gênero Liophis. Liophis (*sensu* Dixon, 1980) possui mais de 40 espécies válidas (Curcio et al., 2009), sendo que oito delas estão atualmente alocadas no gênero *Lygophis* (Zaher et al., 2009b). O gênero *Liophis* encontra-se distribuído ao longo da América do Sul e parte da América central, inclusive em ilhas do Caribe (Dixon, 1980; 1989; 2000). As relações interespecíficas dentro do gênero não estão completamente esclarecidas e ainda
+existem muitos problemas na taxonomia alfa de diversas espécies o que dificulta a determinação do relacionamento entre as espécies (Dixon, 1983a; 1983b; Fernandes et al., 2002) 
+
+
+### Histórico taxonômico
+
+Günther (1858) descreve *Coronella jaegeri* com base em dois espécimes, uma fêmea adulta e uma fêmea jovem procedentes do “Brasil”, sem localidade específica. Peters (1863) descreve *Liophis (Opheomorphus) dorsalis* procedente do “Brasil”, sem localidade específica. Hensel (1868) reporta *Liophis dorsalis* para o estado do Rio Grande do Sul, Brasil. Boulenger (1886) apresenta uma lista de todas as espécies de anfíbios e répteis procedentes do estado do Rio Grande do Sul depositados no Museu de História Natural de Londres, além dos espécimes desta região depositados no Museu de Berlim e coletados por Hensel. Neste trabalho Boulenger (1886) coloca *Liophis (Opheomorphus) dorsalis* Peters, 1863 na sinonímia de *Coronella jaegeri*. Boulenger (1894a) descreve *Aporophis coralliventris* com base em um único exemplar macho procedente de “an island north of Concepcion, near San Salvador, north Paraguay” (uma ilha ao norte de Concepcion, próximo a San Salvador, norte do Paraguai). Boulenger (1894b) transfere *C. jaegeri* para o gênero *Rhadinaea* Cope, 1863. Werner (1899)
+descreve *Rhadinaea dichroa* procedente da Argentina, sem localidade específica. Jensen (1900) descreve *Rhadinaea lineata* procedente da localidade de Taboleiro Grande, município de Lagoa Santa, estado de Minas Gerais. Amaral (1926) transfere *R. jaegeri* juntamente com alguns outros táxons para o gênero *Liophis*. Amaral (1929a) coloca *R. lineata* e *R. dichroa* na sinonímia de *L. jaegeri*. Amaral (1929b, c) coloca o gênero *Aporophis* na sinonímia de *Lygophis* e propõe a combinação *Lygophis coralliventris*. Dixon (1980) coloca os gêneros *Dromicus* Bibron, 1843, *Leimadophis* Fitzinger, 1843e *Lygophis* Fitzinger, 1843 na sinonímia de *Liophis* Wagler, 1830. Dixon (1987) retira *R. dichroa* da sinonímia de *L. jaegeri* pela primeira apresentar 19 escamas dorsais e considera *R. dichroa* como sinônimo de *Liophis poecilogyrus caesius*. No mesmo trabalho Dixon (1987) considera *L. coralliventris* como uma subespécie de *L. jaegeri*, reconhecendo os táxons *L. jaegeri jaegeri* e *L. jaegeri coralliventris*. Souto (2016)  examinou caracteres de folidose, padrão de coloração, morfologia do hemipênis e glândulas cefálicas de
+diversos exemplares das duas subespécies da *L. jaegeri* observou diferenças importantes no padrão de coloração entre a população do sudeste do Brasil
+(morfótipo I) em relação àquelas do Sul do Brasil, Uruguai, Argentina e Paraguai
+(morfótipo II) (Figura 1C). Ao analisar a frequência de estados de caracteres relacionados à presença de faixa paravertebral e pontuações escuras na borda apical das escamas dorsais de cada morfótipo, duas espécies plenas foram reconhecidas dentro da distribuição anteriormente conhecida para *L. jaegeri*. Após análises de fotografia de síntipos e estudo detalhado do histórico taxonômico de *L. jaegeri* foi possível associar o morfótipo I e II a *Liophis jaegeri* e *Liophis dorsalis*, respectivamente (Figura 1).
+
+![](../Projeto curso R/Figs/Imagem1.png) **Figura 1**: A: *Liophis jaegeri*, Foto: Ricardo Sawaia; B: *Liophis dorsalis*, Foto: Konrad Mebert; C: Mapa de distribuição de *Liophis jaegeri* e *Liohis dorsalis*, retirado de Souto (2016).
+
+## Objetivos
+Analisar as variações do número de escamas ventrais e subcaudais, além do comprimento rostro cloacal (CRC) e comprimento caudal (CC) das espécies *Liophis jaegeri* e *Liophis dorsalis*.
+
+## Material e métodos
+Foram examinados 116 exemplares identificados como Liophis jaegeri provenientes das
+**seguintes coleções:**
+
+#### Nacionais:
+
+* Coleção herpetológica do Museu Nacional/UFRJ, Rio de Janeiro, RJ (MNRJ);
+
+* Coleção herpetológica do Instituto Butantan, São Paulo, SP (IBSP);
+
+* Coleção de herpetologia do Museu de Zoologia da Universidade de São Paulo, São
+Paulo, SP (MZUSP);
+
+* Coleção de herpetologia do Museu de História Natural Capão da Imbuia, Curitiba, PR (MHNCI);
+
+* Coleção de herpetologia do Museu de Ciência e Tecnologia da PUC-RS, Porto Alegre, RS (MCP);
+
+* Coleção de herpetologia da Fundação Zoobotânica, Porto Alegre, RS (MCN).
+
+#### Estrangeiras:
+
+* Coleção de herpetologia do Museo Argentino de Ciencias Naturales Bernardino Rivadavia, Buenos Aires, ARG (MACN);
+
+* Coleção de herpetologia da Universidad Nacional del Litoral, Santa Fé, ARG (UNL);
+
+* Coleção de herpetologia da Universidad Nacional del Nordeste, Corrientes, ARG
+(UNNEC);
+
+* Coleção de herpetologia da Fundación Miguel Lillo, Tucumán, ARG (FML).
+
+### Análises morfológicas
+As medições de CRC e CC foram realizadas por meio de fita métrica com precisão
+de 1 cm. O sexo dos indivíduos foi determinado através de uma incisão longitudinal na base da cauda para verificar a presença ou não de hemipênis. Além disso, foram contabilizadas o número de escamas ventrais e subcaudais.
+
+Por meio do programa RSudio (Versão 1.2.5003) foram realizadas análises exploratórias dos dados e posterioremente foram gerados gráficos com o intuito de visualizar as diferenças no número de escamas ventrais, subcaudais, comprimento rostro cloacal (CRC) e comprimento caudal (CC) entre as espécies.
+
+## Resultados e discussão
+
+#### Histogramas
+
+Histogramas foram gerados através dos códigos:
+
+```{r
+# Frequência do número de Escamas ventrais por espécie:
+
+par(mfrow = c(1,2))
+hist(Liophis_dorsalis$Esc_ventrais, las = 1)
+hist(Liophis_jaegeri$Esc_ventrais, las = 1)
+```
+![](../Projeto curso R/Figs/Freq_Ventrais_Especie.png) **Figura 2**: Histograma mostrando a frequência do número de escamas ventrais de *Liophis dorsalis* e *Liophis jaegeri*.
+
+
+```{r
+# Frequência do número de Escamas subcaudais por espécie:
+
+par(mfrow = c(1,2))
+hist(Liophis_dorsalis$Esc_subcaudais, las = 1)
+hist(Liophis_jaegeri$Esc_subcaudais, las = 1)
+```
+![](../Projeto curso R/Figs/Freq_Subcaudais_Especie.png) **Figura 3**: Histograma mostrando a frequência do número de escamas subcaudais de *Liophis dorsalis* e *Liophis jaegeri*.
+
+
+```{r
+# Frequência de CRC por espécie:
+
+par(mfrow = c(1,2))
+hist(Liophis_dorsalis$CRC, las = 1)
+hist(Liophis_jaegeri$CRC, las = 1)
+```
+![](../Projeto curso R/Figs/Freq_CRC_Especie.png) **Figura 4**: Histograma mostrando a frequência do comprimento rostro cloacal (CRC) de *Liophis dorsalis* e *Liophis jaegeri*.
+
+
+```{r
+# Frequência de CC por espécie:
+
+par(mfrow = c(1, 2))
+hist(Liophis_dorsalis$CC, las = 1)
+hist(Liophis_jaegeri$CC, las = 1)
+```
+![](../Projeto curso R/Figs/Freq_CC_Especie.png) **Figura 5**: Histograma mostrando a frequência do comprimento caudal (CC) de *Liophis dorsalis* e *Liophis jaegeri*.
+
+
+
+#### Boxplot
+
+Os gráficos de boxplot foram gerados através dos códigos:
+
+```{r
+# Boxplot das escamas ventrais e subcaudais por espécie:
+
+par(mfrow = c(1,2))
+boxplot(Esc_ventrais ~ Especie, data = Dados, las = 1)
+boxplot(Esc_subcaudais ~ Especie, data = Dados, las = 1)
+```
+![](../Projeto curso R/Figs/Rplot_Esc_Especies.png) **Figura 6**: Diferenças no número de escamas ventrais e subcaudais entre *Liophis dorsalis* e *Liophis jaegeri*.
+
+
+
+```{r
+# Boxplot do comprimento CRC e CC por espécie
+
+par(mfrow = c(1,2))
+boxplot(CRC ~ Especie, data = Dados, las = 1)
+boxplot(CC ~ Especie, data = Dados, las = 1)
+```
+![](../Projeto curso R/Figs/Rplot_CRC_CC_Especie.png) **Figura 7**: Diferenças no CRC e CC entre *Liophis dorsalis* e *Liophis jaegeri*.
+
+
+
+```{r
+# Boxplot das escamas ventrais e subcaudais por sexo e espécie
+
+par(mfrow = c(2,2))
+boxplot(Esc_ventrais ~ Sexo, data = Liophis_dorsalis, las = 1)
+boxplot(Esc_subcaudais ~ Sexo, data = Liophis_dorsalis, las = 1)
+boxplot(Esc_subcaudais ~ Sexo, data = Liophis_jaegeri, las = 1)
+boxplot(Esc_subcaudais ~ Sexo, data = Liophis_jaegeri, las = 1)
+```
+![](../Projeto curso R/Figs/Imagem4.png) **Figura 8**: Dimorfismo sexual considerando o número de escamas ventrais e subcaudais de *Liophis dorsalis* e *Liophis jaegeri*.
+
+
+
+```{r
+# Boxplot do comprimento CRC e CC por sexo e espécie
+
+par(mfrow = c(2,2))
+boxplot(CRC ~ Sexo, data = Liophis_dorsalis, las = 1)
+boxplot(CC ~ Sexo, data = Liophis_dorsalis, las = 1)
+boxplot(CC ~ Sexo, data = Liophis_jaegeri, las = 1)
+boxplot(CC ~ Sexo, data = Liophis_jaegeri, las = 1)
+```
+![](../Projeto curso R/Figs/Imagem5.png) **Figura 9**: Dimorfismo sexual considerando CRC e CC de *Liophis dorsalis* e *Liophis jaegeri*.
+
+
+
+#### Análise de Componentes Principais
+
+Para a análise de componentes principais foi usado o código:
+
+```{r
+# Criando subconjuntos de linhas e colunas para a análise
+Dados_PCA <- Dados[1:116, 3:6]
+
+# Visualizar os dados
+View(Dados_PCA)
+
+# Gerando PCA
+resu.pca <- prcomp(Dados_PCA)
+
+summary(resu.pca)
+
+# Extrair a proporção de variância dos valores de componentes principais
+eig.val <- get_eigenvalue(resu.pca)
+eig.val
+
+# Plotar no gráfico mostrando a proporção de variância de cada variavel
+fviz_eig(resu.pca, addlabels = T, ylim = c(0,90))
+
+# Extrair os resultados das variaveis do PCA para plotar no gráfico
+var <- get_pca_var(resu.pca)
+ind <- get_pca_ind(resu.pca)
+
+# Plotar gráfico de PCA
+fviz_pca_var(resu.pca, col.var = "blue")
+
+# Criando grupo para cluster
+especie <- as.factor(Dados[ ,1])
+
+# Plotando com grupos
+fviz_pca(resu.pca, habillage = especie, title = )
+```
+![](../Projeto curso R/Figs/PCA_2.png) **Figura 10**: Análise de Componentes Principais considerando quatro caracteres de *Liophis dorsalis* e *Liophis jaegeri*.
+
+
+As análises mostram que os estados de caráter mais frequêntes dos espécimes examinados de *Liophis dorsalis* foram número de escamas ventrais entre 155-160, número de escamas subcaudais entre 60-65 escamas, CRC de 30-35 cm e CC de 10-12 cm. Já os espécimes de *Liophis jaegeri* apresentaram mais frequentemente escamas ventrais entre 145-150, número de escamas subcaudais entre 55-60, CRC de 35-40 cm e CC de 10-11 cm.
+
+Ao observar os gráficos boxplot do número de escamas ventrais, subcaudais CRC e CC por espécie é possível observar que apesar das médias dos caracteres serem diferentes entre as espécies, não é possível separar com precisão os táxons (Figura 5 e 6). Contudo, é possível observar uma tendência a separação das espécies considerando o caráter número de escamas subcaudais (Figura 5).
+
+Não foi possível possível observar dimorfismo sexual em nenhum dos caracteres análisados para ambas as espécies (Figura 7 e 8). Contudo, existe uma diferença nas médias do caráter CRC para ambas as espécies. Além disso, a espécie *Liophis jaegeri* mostrou diferença consideravel nas médias do comprimento caudal (CC) para machos e fêmeas (Figura 8).
+
+Ao observar o gráfico da análise de componentes principais (PCA) é possível observar a tendência clara na separação das espécies quando consideramos o caráter número de escamas subcaudais (Figura 9).
+
+
+
+
+
+
