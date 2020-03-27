@@ -216,5 +216,3 @@ Ao observar o gráfico da análise de componentes principais (PCA) é possível 
 
 
 
-
-
