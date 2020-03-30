@@ -3,9 +3,9 @@ title: "Variações morfológicas em duas espécies de Serpentes"
 author: "Natalia Malaquias Souto"
 date: "24 de março de 2020"
 output:
-  html_document: default
-  pdf_document: default
   word_document: default
+  pdf_document: default
+  html_document: default
 ---
 
 ## Introdução
