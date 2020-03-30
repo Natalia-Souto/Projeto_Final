@@ -12,7 +12,7 @@ read.csv2("Dados/Planilha_R_editado_4.csv")
 # Nomeando a planilha #
 Dados <- read.csv2("Dados/Planilha_R_editado_4.csv")
 Liophis_dorsalis <- Dados[1:63, 1:6]
-Liophis_jaegeri <- Dados[64: 116, 1:6]
+Liophis_jaegeri <- Dados[64:116, 1:6]
 
 # Número de linhas da planilha #
 nrow(Dados)
@@ -95,7 +95,7 @@ hist(Liophis_dorsalis$CC, las = 1)
 hist(Liophis_jaegeri$CC, las = 1)
 
 
-# não sei o que significa!
+# Densidade
 plot(density(Dados$Esc_ventrais))
 hist(Dados$Esc_ventrais, freq = FALSE)
 lines(density(Dados$Esc_ventrais), col = "blue")
