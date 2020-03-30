@@ -26,6 +26,8 @@ dim(Dados)
 
 #### Análise exploratória dos Dados ####
 summary(Dados)
+summary(Liophis_dorsalis)
+summary(Liophis_jaegeri)
 class(Dados)
 str(Dados)
 
